@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "0200f941-f371-454b-8e26-e081c0994797",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/api/users",
+    "url": "localhost:3000/api/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-24T13:55:26.319Z",
+    "modified": "2023-02-24T13:55:26.319Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
