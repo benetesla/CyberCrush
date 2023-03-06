@@ -1,2 +1,2 @@
-# BTS_M_APP
+# CyberCrush
 Rede social em construção!!
